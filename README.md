@@ -5,7 +5,7 @@
 
 **Easy Music · AI 写歌与简谱创作平台**
 
-[在线体验](http://easymusic.petaiworkshop.cn/) · [产品总览](http://www.petaiworkshop.cn) 
+[在线体验](http://easymusic.petaiworkshop.cn/) · [产品总览](http://www.petaiworkshop.cn)   [windows客户端免安装](https://easymusic.petaiworkshop.cn/download/v0.1/EasyMusic-Setup-0.1.0-win-x64.exe). [windows客户端安装版本](https://easymusic.petaiworkshop.cn/download/v0.1/EasyMusic-Portable-0.1.0-win-x64.exe)
 
 把一句话想法，变成可编辑的简谱、可试听的旋律，以及可导出的 AI 演唱 / 伴奏 / 完整歌曲。面向内容创作者、音乐爱好者、教学与短视频场景——**不必先懂乐理**。
 
